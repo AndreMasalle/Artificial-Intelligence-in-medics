@@ -1,8 +1,6 @@
-# Artificial-Intelligence-in-medics
+# Artificial Intelligence for medical diagnosis
 
-This repositories will be filled with applied learning project on machine learning and artificial intelligence
+In the first project, it contains 2 model:
 
-The project itself insist of 3 parts that is:
-1. AI for medical diagnosis
-2. AI for medical prognosis
-3. AI for medical treatment
+1. Model that will look in a chest X-ray and determines whether in contain disease
+2. Model that identifies the location of tumors from the brain MRI's
