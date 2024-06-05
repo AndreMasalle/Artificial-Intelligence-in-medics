@@ -1,8 +1,5 @@
-# Artificial-Intelligence-in-medics
+# Artificial Intelligence for medical treatment
 
-This repositories will be filled with applied learning project on machine learning and artificial intelligence
-
-The project itself insist of 3 parts that is:
-1. AI for medical diagnosis
-2. AI for medical prognosis
-3. AI for medical treatment
+The goals of this project was the process of medical care, such as:
+1. Information extracting out of medical texts, question answering and extracting labels from radiology reports
+2. Estimate the effect of a particular treatment would be on a patient
