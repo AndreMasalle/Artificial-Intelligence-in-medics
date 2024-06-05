@@ -1,8 +1,3 @@
-# Artificial-Intelligence-in-medics
+# Artificial Intelligence for medical prognosis
 
-This repositories will be filled with applied learning project on machine learning and artificial intelligence
-
-The project itself insist of 3 parts that is:
-1. AI for medical diagnosis
-2. AI for medical prognosis
-3. AI for medical treatment
+Using structured data, this project will contain a model that predict the risk of an event such as risk of heart attack
